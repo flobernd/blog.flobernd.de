@@ -256,7 +256,7 @@ enableEmoji = true
         inputPosition = "top"
         lazyLoading = false
         lightTheme = "light"
-        darkTheme = "dark_dimmed"
+        darkTheme = "dark"
 
   #  Analytics config
   [params.analytics]
