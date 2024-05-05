@@ -185,7 +185,7 @@ enableEmoji = true
       auto = false
     #  KaTeX mathematical formulas
     [params.page.math]
-      enable = false
+      enable = true
       # KaTeX extension copy_tex
       copyTex = true
       # KaTeX extension mhchem
