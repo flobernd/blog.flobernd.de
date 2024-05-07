@@ -45,7 +45,7 @@ enableEmoji = true
     weight = 6
     identifier = "linkedin"
     pre = '<i class="fab fa-linkedin fa-fw"></i>'
-    url = "https://www.linkedin.com/in/florian-bernd-458a49191"
+    url = "https://www.linkedin.com/in/flobernd"
 
 [params]
   # site default theme ["auto", "light", "dark"]
@@ -153,7 +153,7 @@ enableEmoji = true
 
   [params.social]
     GitHub = "https://github.com/flobernd"
-    Linkedin = "https://www.linkedin.com/in/florian-bernd-458a49191"
+    Linkedin = "https://www.linkedin.com/in/flobernd"
     RSS = true
 
   [params.page]
