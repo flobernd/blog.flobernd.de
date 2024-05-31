@@ -6,7 +6,7 @@ subtitle: 'Replacing the stock fans of an Eaton 9PX 1500VA UPS for quiet operati
 description: 'Replacing the stock fans of an Eaton 9PX 1500VA UPS for quiet operation'
 featuredImagePreview: 'thumbnail.jpg'
 summary: |-
-  I recently decided to replace my existing APC UPS devices with the robust `Eaton 9PX 1500VA` UPS. However, there was a catch - the standard fan on the Eaton UPS was tooloud for my home lab environment. In this article, I share my experience of replacing the stock fan with a quieter Noctua fan.
+  I recently decided to replace my existing APC UPS devices with the robust `Eaton 9PX 1500VA` UPS. However, there was a catch - the standard fan on the Eaton UPS was too loud for my home lab environment. In this article, I share my experience of replacing the stock fan with a quieter Noctua fan.
 
 tags:
   - UPS
@@ -20,7 +20,7 @@ draft: false
 lastmod: '2024-05-06'
 ---
 
-I recently decided to replace my existing APC UPS devices with the robust `Eaton 9PX 1500VA` UPS. However, there was a catch - the standard fan on the Eaton UPS was tooloud for my home lab environment. In this article, I share my experience of replacing the stock fan with a quieter Noctua fan and the modifications that were required to make it work smoothly.
+I recently decided to replace my existing APC UPS devices with the robust `Eaton 9PX 1500VA` UPS. However, there was a catch - the standard fan on the Eaton UPS was too loud for my home lab environment. In this article, I share my experience of replacing the stock fan with a quieter Noctua fan and the modifications that were required to make it work smoothly.
 
 {{< admonition warning >}}
 Replacing the standard fan with a different model may cause unexpected long term problems and will also void the warranty. Any modification is at your own risk.
