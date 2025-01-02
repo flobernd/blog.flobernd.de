@@ -242,19 +242,18 @@ enableEmoji = true
       # giscus comment config (https://giscus.app/)
       [params.page.comment.giscus]
         enable = true
-        repo = "flobernd/blog.flobernd.de"
-        repoId = "R_kgDOLyke8Q"
-        category = "Announcements"
-        categoryId = "DIC_kwDOLyke8c4Ce66t"
-        lang = "" # automatically adapt the current theme i18n configuration when empty
-        mapping = "pathname"
-        strict = "0"
-        reactionsEnabled = "0"
-        emitMetadata = "0"
-        inputPosition = "top"
-        lazyLoading = false
+        dataRepo = "flobernd/blog.flobernd.de"
+        dataRepoId = "R_kgDOLyke8Q"
+        dataCategory = "Announcements"
+        dataCategoryId = "DIC_kwDOLyke8c4Ce66t"
+        dataMapping = "pathname"
+        dataReactionsEnabled = "0"
+        dataEmitMetadata = "0"
+        dataInputPosition = "top"
         lightTheme = "light"
         darkTheme = "dark"
+        dataLang = "" # automatically adapt the current theme i18n configuration when empty
+        dataLoading = "lazy"
 
   #  Analytics config
   [params.analytics]
