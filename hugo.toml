@@ -11,10 +11,6 @@ enableRobotsTXT = true
 enableGitInfo = false
 enableEmoji = true
 
-[author]
-  name = "Florian Bernd"
-  link = "/authors/florian-bernd"
-
 [menu]
   [[menu.main]]
     weight = 1
@@ -60,6 +56,10 @@ enableEmoji = true
   description = "Florian Bernd's Personal Blog"
   # website images for Open Graph and Twitter Cards
   images = ["/logo.svg"]
+
+  [params.author]
+    name = "Florian Bernd"
+    link = "/authors/florian-bernd"
 
   [params.header]
     # desktop header mode ["fixed", "normal", "auto"]
